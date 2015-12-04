@@ -1,0 +1,28 @@
+name: Good Brother
+favicon: null
+layout_spectrum: 0.6253760932013392
+typography_spectrum: 0.5337973635178059
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9903819954488426
+  lightness: 0.21097431425005198
+  saturation: 0.2947381534613669
+  rhythmicContrast: 0.5415438602212816
+purpose: []
